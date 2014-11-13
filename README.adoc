@@ -1,0 +1,3 @@
+= unicolor
+
+Minimalistic library for changing the appearance of stdout. Includes foreground color, background color and styles
